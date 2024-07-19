@@ -1,0 +1,118 @@
+,REF_DATE,GEO,Gender,Indicators,Statistics,VALUE
+0,2024-01,Canada (excluding territories),"Total, all persons",Life satisfaction rating between 0 and 5,Percentage of persons,21.7
+1,2024-01,Canada (excluding territories),"Total, all persons",Life satisfaction rating of 6 or 7,Percentage of persons,29.8
+2,2024-01,Canada (excluding territories),"Total, all persons","Life satisfaction rating of 8, 9 or 10",Percentage of persons,48.6
+3,2024-01,Canada (excluding territories),Men,Life satisfaction rating between 0 and 5,Percentage of persons,22.3
+4,2024-01,Canada (excluding territories),Men,Life satisfaction rating of 6 or 7,Percentage of persons,29.2
+5,2024-01,Canada (excluding territories),Men,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,48.5
+6,2024-01,Canada (excluding territories),Women,Life satisfaction rating between 0 and 5,Percentage of persons,21.0
+7,2024-01,Canada (excluding territories),Women,Life satisfaction rating of 6 or 7,Percentage of persons,30.3
+8,2024-01,Canada (excluding territories),Women,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,48.7
+9,2024-01,Atlantic Region,"Total, all persons",Life satisfaction rating between 0 and 5,Percentage of persons,22.2
+10,2024-01,Atlantic Region,"Total, all persons",Life satisfaction rating of 6 or 7,Percentage of persons,27.5
+11,2024-01,Atlantic Region,"Total, all persons","Life satisfaction rating of 8, 9 or 10",Percentage of persons,50.3
+12,2024-01,Atlantic Region,Men,Life satisfaction rating between 0 and 5,Percentage of persons,20.7
+13,2024-01,Atlantic Region,Men,Life satisfaction rating of 6 or 7,Percentage of persons,29.2
+14,2024-01,Atlantic Region,Men,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,50.0
+15,2024-01,Atlantic Region,Women,Life satisfaction rating between 0 and 5,Percentage of persons,23.6
+16,2024-01,Atlantic Region,Women,Life satisfaction rating of 6 or 7,Percentage of persons,25.8
+17,2024-01,Atlantic Region,Women,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,50.7
+18,2024-01,Newfoundland and Labrador,"Total, all persons",Life satisfaction rating between 0 and 5,Percentage of persons,20.7
+19,2024-01,Newfoundland and Labrador,"Total, all persons",Life satisfaction rating of 6 or 7,Percentage of persons,26.4
+20,2024-01,Newfoundland and Labrador,"Total, all persons","Life satisfaction rating of 8, 9 or 10",Percentage of persons,52.9
+21,2024-01,Newfoundland and Labrador,Men,Life satisfaction rating between 0 and 5,Percentage of persons,19.2
+22,2024-01,Newfoundland and Labrador,Men,Life satisfaction rating of 6 or 7,Percentage of persons,27.6
+23,2024-01,Newfoundland and Labrador,Men,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,53.2
+24,2024-01,Newfoundland and Labrador,Women,Life satisfaction rating between 0 and 5,Percentage of persons,22.2
+25,2024-01,Newfoundland and Labrador,Women,Life satisfaction rating of 6 or 7,Percentage of persons,25.2
+26,2024-01,Newfoundland and Labrador,Women,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,52.6
+27,2024-01,Prince Edward Island,"Total, all persons",Life satisfaction rating between 0 and 5,Percentage of persons,23.0
+28,2024-01,Prince Edward Island,"Total, all persons",Life satisfaction rating of 6 or 7,Percentage of persons,30.2
+29,2024-01,Prince Edward Island,"Total, all persons","Life satisfaction rating of 8, 9 or 10",Percentage of persons,46.8
+30,2024-01,Prince Edward Island,Men,Life satisfaction rating between 0 and 5,Percentage of persons,22.1
+31,2024-01,Prince Edward Island,Men,Life satisfaction rating of 6 or 7,Percentage of persons,33.8
+32,2024-01,Prince Edward Island,Men,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,44.0
+33,2024-01,Prince Edward Island,Women,Life satisfaction rating between 0 and 5,Percentage of persons,23.8
+34,2024-01,Prince Edward Island,Women,Life satisfaction rating of 6 or 7,Percentage of persons,26.6
+35,2024-01,Prince Edward Island,Women,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,49.6
+36,2024-01,Nova Scotia,"Total, all persons",Life satisfaction rating between 0 and 5,Percentage of persons,24.2
+37,2024-01,Nova Scotia,"Total, all persons",Life satisfaction rating of 6 or 7,Percentage of persons,27.9
+38,2024-01,Nova Scotia,"Total, all persons","Life satisfaction rating of 8, 9 or 10",Percentage of persons,47.9
+39,2024-01,Nova Scotia,Men,Life satisfaction rating between 0 and 5,Percentage of persons,22.7
+40,2024-01,Nova Scotia,Men,Life satisfaction rating of 6 or 7,Percentage of persons,30.9
+41,2024-01,Nova Scotia,Men,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,46.4
+42,2024-01,Nova Scotia,Women,Life satisfaction rating between 0 and 5,Percentage of persons,25.7
+43,2024-01,Nova Scotia,Women,Life satisfaction rating of 6 or 7,Percentage of persons,25.1
+44,2024-01,Nova Scotia,Women,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,49.2
+45,2024-01,New Brunswick,"Total, all persons",Life satisfaction rating between 0 and 5,Percentage of persons,20.3
+46,2024-01,New Brunswick,"Total, all persons",Life satisfaction rating of 6 or 7,Percentage of persons,27.1
+47,2024-01,New Brunswick,"Total, all persons","Life satisfaction rating of 8, 9 or 10",Percentage of persons,52.6
+48,2024-01,New Brunswick,Men,Life satisfaction rating between 0 and 5,Percentage of persons,19.0
+49,2024-01,New Brunswick,Men,Life satisfaction rating of 6 or 7,Percentage of persons,27.3
+50,2024-01,New Brunswick,Men,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,53.7
+51,2024-01,New Brunswick,Women,Life satisfaction rating between 0 and 5,Percentage of persons,21.7
+52,2024-01,New Brunswick,Women,Life satisfaction rating of 6 or 7,Percentage of persons,26.9
+53,2024-01,New Brunswick,Women,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,51.4
+54,2024-01,Quebec,"Total, all persons",Life satisfaction rating between 0 and 5,Percentage of persons,14.8
+55,2024-01,Quebec,"Total, all persons",Life satisfaction rating of 6 or 7,Percentage of persons,27.0
+56,2024-01,Quebec,"Total, all persons","Life satisfaction rating of 8, 9 or 10",Percentage of persons,58.2
+57,2024-01,Quebec,Men,Life satisfaction rating between 0 and 5,Percentage of persons,16.0
+58,2024-01,Quebec,Men,Life satisfaction rating of 6 or 7,Percentage of persons,26.0
+59,2024-01,Quebec,Men,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,57.9
+60,2024-01,Quebec,Women,Life satisfaction rating between 0 and 5,Percentage of persons,13.5
+61,2024-01,Quebec,Women,Life satisfaction rating of 6 or 7,Percentage of persons,28.0
+62,2024-01,Quebec,Women,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,58.4
+63,2024-01,Ontario,"Total, all persons",Life satisfaction rating between 0 and 5,Percentage of persons,25.5
+64,2024-01,Ontario,"Total, all persons",Life satisfaction rating of 6 or 7,Percentage of persons,31.1
+65,2024-01,Ontario,"Total, all persons","Life satisfaction rating of 8, 9 or 10",Percentage of persons,43.4
+66,2024-01,Ontario,Men,Life satisfaction rating between 0 and 5,Percentage of persons,26.5
+67,2024-01,Ontario,Men,Life satisfaction rating of 6 or 7,Percentage of persons,30.3
+68,2024-01,Ontario,Men,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,43.2
+69,2024-01,Ontario,Women,Life satisfaction rating between 0 and 5,Percentage of persons,24.5
+70,2024-01,Ontario,Women,Life satisfaction rating of 6 or 7,Percentage of persons,31.9
+71,2024-01,Ontario,Women,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,43.6
+72,2024-01,Prairies Region,"Total, all persons",Life satisfaction rating between 0 and 5,Percentage of persons,22.3
+73,2024-01,Prairies Region,"Total, all persons",Life satisfaction rating of 6 or 7,Percentage of persons,29.0
+74,2024-01,Prairies Region,"Total, all persons","Life satisfaction rating of 8, 9 or 10",Percentage of persons,48.7
+75,2024-01,Prairies Region,Men,Life satisfaction rating between 0 and 5,Percentage of persons,22.3
+76,2024-01,Prairies Region,Men,Life satisfaction rating of 6 or 7,Percentage of persons,28.4
+77,2024-01,Prairies Region,Men,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,49.3
+78,2024-01,Prairies Region,Women,Life satisfaction rating between 0 and 5,Percentage of persons,22.2
+79,2024-01,Prairies Region,Women,Life satisfaction rating of 6 or 7,Percentage of persons,29.7
+80,2024-01,Prairies Region,Women,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,48.1
+81,2024-01,Manitoba,"Total, all persons",Life satisfaction rating between 0 and 5,Percentage of persons,21.2
+82,2024-01,Manitoba,"Total, all persons",Life satisfaction rating of 6 or 7,Percentage of persons,27.4
+83,2024-01,Manitoba,"Total, all persons","Life satisfaction rating of 8, 9 or 10",Percentage of persons,51.4
+84,2024-01,Manitoba,Men,Life satisfaction rating between 0 and 5,Percentage of persons,21.4
+85,2024-01,Manitoba,Men,Life satisfaction rating of 6 or 7,Percentage of persons,27.2
+86,2024-01,Manitoba,Men,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,51.3
+87,2024-01,Manitoba,Women,Life satisfaction rating between 0 and 5,Percentage of persons,21.0
+88,2024-01,Manitoba,Women,Life satisfaction rating of 6 or 7,Percentage of persons,27.6
+89,2024-01,Manitoba,Women,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,51.4
+90,2024-01,Saskatchewan,"Total, all persons",Life satisfaction rating between 0 and 5,Percentage of persons,23.2
+91,2024-01,Saskatchewan,"Total, all persons",Life satisfaction rating of 6 or 7,Percentage of persons,29.3
+92,2024-01,Saskatchewan,"Total, all persons","Life satisfaction rating of 8, 9 or 10",Percentage of persons,47.5
+93,2024-01,Saskatchewan,Men,Life satisfaction rating between 0 and 5,Percentage of persons,22.7
+94,2024-01,Saskatchewan,Men,Life satisfaction rating of 6 or 7,Percentage of persons,32.4
+95,2024-01,Saskatchewan,Men,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,44.9
+96,2024-01,Saskatchewan,Women,Life satisfaction rating between 0 and 5,Percentage of persons,23.7
+97,2024-01,Saskatchewan,Women,Life satisfaction rating of 6 or 7,Percentage of persons,26.1
+98,2024-01,Saskatchewan,Women,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,50.2
+99,2024-01,Alberta,"Total, all persons",Life satisfaction rating between 0 and 5,Percentage of persons,22.3
+100,2024-01,Alberta,"Total, all persons",Life satisfaction rating of 6 or 7,Percentage of persons,29.5
+101,2024-01,Alberta,"Total, all persons","Life satisfaction rating of 8, 9 or 10",Percentage of persons,48.2
+102,2024-01,Alberta,Men,Life satisfaction rating between 0 and 5,Percentage of persons,22.5
+103,2024-01,Alberta,Men,Life satisfaction rating of 6 or 7,Percentage of persons,27.8
+104,2024-01,Alberta,Men,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,49.7
+105,2024-01,Alberta,Women,Life satisfaction rating between 0 and 5,Percentage of persons,22.2
+106,2024-01,Alberta,Women,Life satisfaction rating of 6 or 7,Percentage of persons,31.1
+107,2024-01,Alberta,Women,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,46.7
+108,2024-01,British Columbia,"Total, all persons",Life satisfaction rating between 0 and 5,Percentage of persons,20.7
+109,2024-01,British Columbia,"Total, all persons",Life satisfaction rating of 6 or 7,Percentage of persons,32.2
+110,2024-01,British Columbia,"Total, all persons","Life satisfaction rating of 8, 9 or 10",Percentage of persons,47.1
+111,2024-01,British Columbia,Men,Life satisfaction rating between 0 and 5,Percentage of persons,21.3
+112,2024-01,British Columbia,Men,Life satisfaction rating of 6 or 7,Percentage of persons,32.1
+113,2024-01,British Columbia,Men,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,46.5
+114,2024-01,British Columbia,Women,Life satisfaction rating between 0 and 5,Percentage of persons,20.1
+115,2024-01,British Columbia,Women,Life satisfaction rating of 6 or 7,Percentage of persons,32.3
+116,2024-01,British Columbia,Women,"Life satisfaction rating of 8, 9 or 10",Percentage of persons,47.6
