@@ -33,15 +33,18 @@ Use this command to install the library, if needed:
 
 ## How to run the program
 
+All script used below can be found in `/scripts` directory and all plots/figures can be found in `/plots` directory
+
 1) Getting and Cleaning the data
-- Run the `satisfaction-clean.ipynb` notebook in the `/scripts` directory to clean the satisfaction data. This takes the `satisfaction-data-raw.csv` file from the `data/satisfaction-data` directory and returns to the same directory a file named `satisfaction-data-clean.csv` which is used for the analysis.
-- Run the `income-clean.ipynb` notebook in the `/scripts` directory to clean the income data. This takes the `income-raw.csv` file from the `data/income-data` directory and returns to the same directory a file named `income-clean.csv` which is used for the analysis.
-- Something about get-reddit-data
+- Run the `satisfaction-clean.ipynb` notebook to clean the satisfaction data. This notebook takes the `satisfaction-data-raw.csv` file from the `data/satisfaction-data` directory and returns to the same directory a file named `satisfaction-data-clean.csv` which is used for analysis.
+- Run the `income-clean.ipynb` notebook to clean the income data. This notebook takes the `income-raw.csv` file from the `data/income-data` directory and returns to the same directory a file named `income-clean.csv` which is used for analysis.
+- Reddit data is gathered and filtered using `get-reddit-data-spark.py` spark Python script. This script needs to be run in SFU compute cluster, this data produced by this script is not available in this repository since it too big. Instead, we have provided a filtered and cleaned Reddit data available in `/data/reddit-data` directory.
 
 2) Analysis
-- Run the `satisfaction-categorical-analysis.ipynb` notebook in the `/scripts` directory. This performs the initial analysis of the satisfaction data itself, and checks if there is a correlation between province and life satisfaction. It also outputs the plot `life-satisfaction-rating.png` which is found in the `/plots` directory.
-- Run the `satisfaction-sentiment.ipynb` notebook in the `/scripts` directory. This notebook performs the linear regression of the provincial satisfaction data and the subreddit sentiment score data. It starts by taking in `satisfaction-data-clean.csv` and `sentiment_score.csv`, it preprocesses them then merges the dataframes so they can be analyzed. It also outputs the figure `sentiment_score_vs_satisfaction_score.png` which is found in the `/plots` directory.
-- Run the `income_satisfaction_analysis.ipynb` notebook in the `/scripts` directory. This notebook takes in the `sentiment_score.csv` and `income-clean.csv` and places them in dataframes which are preprocessed as needed. They are merged and then a linear regression is performed. It also outputs the figure `sentiment_vs_income.png` which is found in the `/plots` directory.
+- Run the `satisfaction-categorical-analysis.ipynb` notebook to perform the initial analysis of the satisfaction data itself and check if there is a correlation between province and life satisfaction. It also outputs the plot `life-satisfaction-rating.png`.
+- Run the `sentiment-analysis.ipynb` notebook to generate an annual average sentiment score per subreddit and generate `sentiment_score_violinplot.png` which contains the dsitribution of sentiment scores in each subreddit.
+- Run the `satisfaction-sentiment.ipynb` notebook to perform linear regression on the provincial satisfaction data and the subreddit sentiment score data. This notebook takes in `sentiment_score.csv` and `satisfaction-data-clean.csv` and outputs the figure `sentiment_score_vs_satisfaction_score.png`.
+- Run the `income_satisfaction_analysis.ipynb` notebook to perform linear regression on subreddit sentiment score data and median income data. This notebook takes in `sentiment_score.csv` and `income-clean.csv` and outputs the figure `sentiment_vs_income.png`.
 
 ## Authors
 
