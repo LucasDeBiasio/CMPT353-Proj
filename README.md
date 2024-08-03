@@ -33,7 +33,13 @@ Use this command to install the library, if needed:
 
 ## How to run the program
 
-add this later
+1) Getting and Cleaning the data
+- Run the `satisfaction-clean.ipynb` notebook in the `/scripts` directory to clean the satisfaction data. This takes the `satisfaction-data-raw.csv` file from the `data/satisfaction-data` directory and returns to the same directory a file named `satisfaction-data-clean.csv` which is used for the analysis.
+- Run the `income-clean.ipynb` notebook in the `/scripts` directory to clean the income data. This takes the `income-raw.csv` file from the `data/income-data` directory and returns to the same directory a file named `income-clean.csv` which is used for the analysis.
+- Something about get-reddit-data
+
+2) Analysis
+
 
 ## Authors
 
