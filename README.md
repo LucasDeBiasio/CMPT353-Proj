@@ -39,7 +39,9 @@ Use this command to install the library, if needed:
 - Something about get-reddit-data
 
 2) Analysis
-
+- Run the `satisfaction-categorical-analysis.ipynb` notebook in the `/scripts` directory. This performs the initial analysis of the satisfaction data itself, and checks if there is a correlation between province and life satisfaction. It also outputs the plot `life-satisfaction-rating.png` which is found in the `/plots` directory.
+- Run the `satisfaction-sentiment.ipynb` notebook in the `/scripts` directory. This notebook performs the linear regression of the provincial satisfaction data and the subreddit sentiment score data. It starts by taking in `satisfaction-data-clean.csv` and `sentiment_score.csv`, it preprocesses them then merges the dataframes so they can be analyzed. It also outputs the figure `sentiment_score_vs_satisfaction_score.png` which is found in the `/plots` directory.
+- Run the `income_satisfaction_analysis.ipynb` notebook in the `/scripts` directory. This notebook takes in the `sentiment_score.csv` and `income-clean.csv` and places them in dataframes which are preprocessed as needed. They are merged and then a linear regression is performed. It also outputs the figure `sentiment_vs_income.png` which is found in the `/plots` directory.
 
 ## Authors
 
